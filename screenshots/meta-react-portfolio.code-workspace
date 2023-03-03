@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "meta-react-portfolio",
+		"path": ".."
+	},
+	{
+		"name": "screenshots",
+		"path": "../../../../../../../Desktop/screenshots"
+	}
+],
+  "settings": {}
+}
