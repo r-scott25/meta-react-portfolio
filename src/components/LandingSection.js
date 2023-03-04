@@ -22,11 +22,11 @@ const LandingSection = () => (
         {greeting}
       </Heading>
       </Box>
-      <box>
+      <Box>
       <Heading as="h2" size="2xl" mb={2}>
         {bio1}
       </Heading>
-      </box>
+      </Box>
       <Heading as="h2" size="2xl">
         {bio2}
       </Heading>
